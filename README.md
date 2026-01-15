@@ -8,6 +8,8 @@ Started: 2023
 * 2nd Year 1st Semester: SQL, Java, Python
 * 2nd Year 2nd Semester: HTML, CSS, PHP, Laravel, MySQL
 
+---
+
 ## 🌱 Editors 🌱:
 * Apache Netbeans IDE 23
 * MySQL
