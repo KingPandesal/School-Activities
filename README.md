@@ -2,11 +2,11 @@
 
 *Started: 2023*
 
-* 1st Year 1st Semester: Java
-* 1st Year 2nd Semester: Java
-* 2nd Year 1st Semester: SQL, Java, Python
-* 2nd Year 2nd Semester: HTML, CSS, PHP, Laravel, MySQL
-* 3rd Year 1st Semester: HTML, CSS (TAILWIND CSS), Javascript, Laravel (Blade, Breeze), Python, C++, C#
+* **1st Year 1st Semester:** Java
+* **1st Year 2nd Semester:** Java
+* **2nd Year 1st Semester:** SQL, Java, Python
+* **2nd Year 2nd Semester:** HTML, CSS, PHP, Laravel, MySQL
+* **3rd Year 1st Semester:** HTML, CSS (TAILWIND CSS), Javascript, Laravel (Blade, Breeze), Python, C++, C#
 
 ---
 
