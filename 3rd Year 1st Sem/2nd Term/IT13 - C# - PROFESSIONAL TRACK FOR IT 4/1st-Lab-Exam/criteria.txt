@@ -1,0 +1,6 @@
+Controls - 25 points
+Class Created - 20 points
+Button Functions - 20 points
+Naming Convention - 10 points
+Message Box Display - 10 points
+Data Grid View Display - 15 points

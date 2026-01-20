@@ -1,0 +1,17 @@
+Simple Payroll System
+Objective: Compute employee salary based on hours worked.
+Requirements:
+
+Input: Employee Name, Hours Worked, Rate per Hour
+
+Compute:
+Gross Pay = Hours × Rate
+Deduction = 10% of Gross
+Net Pay = Gross − Deduction
+Display in labels or a summary MessageBox.
+Include “Clear” and “Exit.”
+
+
+Bonus: Use DataGridView to show multiple employees’ salaries.
+
+Key Topics: Arithmetic, form controls, formatting currency.
